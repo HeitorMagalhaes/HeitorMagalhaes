@@ -9,7 +9,7 @@
 &nbsp;
 
 <!-- Talking about you -->
-**Sobre mmim:**
+**Sobre mim:**
 
 - 💼 **Estagiando em desenvolvimento web.**
 - 📖 **Atualmente aprofundando conhecimentos em React.**
