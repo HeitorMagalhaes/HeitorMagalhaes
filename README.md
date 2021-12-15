@@ -29,8 +29,10 @@
   <code><img width="20%" src="https://github.com/cncf/landscape/blob/master/hosted_logos/microsoft-sql-server.svg"></code>
 </p>
 
+---
 
 
-<a href="https://github.com/HeitorMagalhaes/github-readme-stats">
+<!-- <a href="https://github.com/HeitorMagalhaes/github-readme-stats">
    <img width="60%" alt="Status Heitor" src="" />
 </a>
+ -->
