@@ -21,15 +21,15 @@
 **Experiências:**
 
 <p>
-  <code><img width="25%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="25%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="25%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="25%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
-  <code><img width="25%" src="https://github.com/rdimascio/icons/blob/master/icons/photoshop.svg"></code>
-  <code><img width="25%" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></code>
-<!--   <code><img width="25%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="25%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> -->
+  <code><img width="20%" src="https://github.com/rdimascio/icons/blob/master/icons/photoshop.svg"></code>
+  <code><img width="20%" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="20%" src="https://github.com/cncf/landscape/blob/master/hosted_logos/microsoft-sql-server.svg"></code>
 </p>
 
 
