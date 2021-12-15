@@ -1,15 +1,39 @@
-### Hi there 👋
+<!-- Your title -->
+## Opa, seja bem vindo!
 
-**HeitorMagalhaes/HeitorMagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+&nbsp;
 
+<!-- Talking about you -->
+**Sobre mmim:**
+
+- 💼 **Estagiando em desenvolvimento web.**
+- 📖 **Atualmente aprofundando conhecimentos em React.**
+- 🎨 **FrontEnd**
+- ✏️ **Interesse em UI/UX**
+
+---
+
+**Experiências:**
+
+<p>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <br />
+  <code><img width="25%" src="https://github.com/rdimascio/icons/blob/master/icons/photoshop.svg"></code>
+  <code><img width="25%" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></code>
+<!--   <code><img width="25%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="25%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> -->
+</p>
+
+
+
+<!-- <a href="https://github.com/zjayers/github-readme-stats">
+   <img width="60%" alt="Zach's github stats" src="" />
+</a> -->
