@@ -8,10 +8,11 @@
 <!-- Talking about you -->
 **Sobre mim:**
 
-- 💼 **Estagiando em desenvolvimento web.**
-- 📖 **Atualmente aprofundando conhecimentos em React.**
-- 🎨 **FrontEnd**
-- ✏️ **Interesse em UI/UX**
+- 💼 **Trainee em desenvolvimento web.**
+- 📖 **Atualmente aprofundando conhecimentos em C#.**
+- ⚙️ **BackEnd**
+- ✏️ **FrontEnd**
+- 🎨 **Design**
 
 ---
 
