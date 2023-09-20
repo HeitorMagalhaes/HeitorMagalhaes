@@ -8,8 +8,8 @@
 <!-- Talking about you -->
 **Sobre mim:**
 
-- 💼 **Trainee em desenvolvimento web.**
-- 📖 **Atualmente aprofundando conhecimentos em C#.**
+- 💼 **Desenvolvedor Fullstack Junior**
+- 📖 **Atualmente aprofundando conhecimentos em .NET.**
 - ⚙️ **BackEnd**
 - ✏️ **FrontEnd**
 - 🎨 **Design**
