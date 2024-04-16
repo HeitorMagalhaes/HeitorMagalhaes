@@ -1,15 +1,12 @@
 <!-- Your title -->
 ## Opa, seja bem vindo!
 
-<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/) -->
-
 &nbsp;
 
 <!-- Talking about you -->
 **Sobre mim:**
 
 - 💼 **Desenvolvedor Fullstack Pleno**
-<!-- 📖 **Atualmente aprofundando conhecimentos em .NET.** -->
 - ⚙️ **BackEnd**
 - ✏️ **FrontEnd**
 - 🎨 **Design**
@@ -32,8 +29,3 @@
 
 ---
 
-
-<!-- <a href="https://github.com/HeitorMagalhaes/github-readme-stats">
-   <img width="60%" alt="Status Heitor" src="" />
-</a>
- -->
