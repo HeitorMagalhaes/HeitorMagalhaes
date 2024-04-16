@@ -8,8 +8,8 @@
 <!-- Talking about you -->
 **Sobre mim:**
 
-- 💼 **Desenvolvedor Fullstack Junior**
-- 📖 **Atualmente aprofundando conhecimentos em .NET.**
+- 💼 **Desenvolvedor Fullstack Pleno**
+<!-- 📖 **Atualmente aprofundando conhecimentos em .NET.** -->
 - ⚙️ **BackEnd**
 - ✏️ **FrontEnd**
 - 🎨 **Design**
