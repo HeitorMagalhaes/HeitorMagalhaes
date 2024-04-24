@@ -15,10 +15,6 @@
 
 **Experiências:**
 
-<div style="display: flex; background-color: red; width: 300px; height: 300px;">
-  aaaaa
-</div>
-
 <p>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
