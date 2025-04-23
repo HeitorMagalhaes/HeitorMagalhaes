@@ -7,9 +7,6 @@
 **Sobre mim:**
 
 - 💼 **Desenvolvedor Fullstack Pleno**
-- ⚙️ **BackEnd**
-- ✏️ **FrontEnd**
-- 🎨 **Design**
 
 ---
 
